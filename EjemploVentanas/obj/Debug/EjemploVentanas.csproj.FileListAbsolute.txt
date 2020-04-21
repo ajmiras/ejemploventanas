@@ -1,0 +1,13 @@
+C:\Users\Javier\source\repos\EjemploVentanas\EjemploVentanas\bin\Debug\EjemploVentanas.exe.config
+C:\Users\Javier\source\repos\EjemploVentanas\EjemploVentanas\bin\Debug\EjemploVentanas.exe
+C:\Users\Javier\source\repos\EjemploVentanas\EjemploVentanas\bin\Debug\EjemploVentanas.pdb
+C:\Users\Javier\source\repos\EjemploVentanas\EjemploVentanas\obj\Debug\EjemploVentanas.csprojAssemblyReference.cache
+C:\Users\Javier\source\repos\EjemploVentanas\EjemploVentanas\obj\Debug\EjemploVentanas.FPrincipal.resources
+C:\Users\Javier\source\repos\EjemploVentanas\EjemploVentanas\obj\Debug\EjemploVentanas.Properties.Resources.resources
+C:\Users\Javier\source\repos\EjemploVentanas\EjemploVentanas\obj\Debug\EjemploVentanas.csproj.GenerateResource.cache
+C:\Users\Javier\source\repos\EjemploVentanas\EjemploVentanas\obj\Debug\EjemploVentanas.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\EjemploVentanas\EjemploVentanas\obj\Debug\EjemploVentanas.exe
+C:\Users\Javier\source\repos\EjemploVentanas\EjemploVentanas\obj\Debug\EjemploVentanas.pdb
+C:\Users\Javier\source\repos\EjemploVentanas\EjemploVentanas\obj\Debug\EjemploVentanas.FVentanaModal.resources
+C:\Users\Javier\source\repos\EjemploVentanas\EjemploVentanas\obj\Debug\EjemploVentanas.FVentanaNoModal.resources
+C:\Users\Javier\source\repos\EjemploVentanas\EjemploVentanas\obj\Debug\EjemploVentanas.DlgSalir.resources
